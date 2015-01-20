@@ -1,0 +1,2 @@
+# JamesJR
+Beginner Student Programmer
